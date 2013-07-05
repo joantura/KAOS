@@ -3244,3 +3244,38 @@
 2013-07-04 23:41:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
 2013-07-04 23:42:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
 2013-07-04 23:42:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-05 12:32:03 [INFO] Starting minecraft server version 1.5.2
+2013-07-05 12:32:03 [INFO] Loading properties
+2013-07-05 12:32:03 [INFO] Default game type: CREATIVE
+2013-07-05 12:32:03 [INFO] Generating keypair
+2013-07-05 12:32:04 [INFO] Starting Minecraft server on *:25565
+2013-07-05 12:32:04 [INFO] Preparing level "world"
+2013-07-05 12:32:04 [INFO] Preparing start region for level 0
+2013-07-05 12:32:05 [INFO] Preparing spawn area: 99%
+2013-07-05 12:32:05 [INFO] Done (1,117s)! For help, type "help" or "?"
+2013-07-05 12:32:48 [INFO] Stopping server
+2013-07-05 12:32:48 [INFO] Saving players
+2013-07-05 12:32:48 [INFO] Saving worlds
+2013-07-05 12:32:48 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-05 12:32:48 [INFO] Closing listening thread
+2013-07-05 12:32:48 [INFO] Saving chunks for level 'world'/Nether
+2013-07-05 12:32:48 [INFO] Saving chunks for level 'world'/The End
+2013-07-05 12:32:48 [INFO] Stopping server
+2013-07-05 12:32:57 [INFO] Starting minecraft server version 1.5.2
+2013-07-05 12:32:57 [INFO] Loading properties
+2013-07-05 12:32:57 [INFO] Default game type: CREATIVE
+2013-07-05 12:32:57 [INFO] Generating keypair
+2013-07-05 12:32:58 [INFO] Starting Minecraft server on *:25565
+2013-07-05 12:32:58 [INFO] Preparing level "world"
+2013-07-05 12:32:58 [INFO] Preparing start region for level 0
+2013-07-05 12:32:59 [INFO] Preparing spawn area: 98%
+2013-07-05 12:32:59 [INFO] Done (1,143s)! For help, type "help" or "?"
+2013-07-05 12:34:32 [INFO] joantura[/192.168.1.37:52371] logged in with entity id 816 at (-25.365530992676113, 63.69999998807907, 97.5)
+2013-07-05 13:21:23 [INFO] joantura lost connection: disconnect.quitting
+2013-07-05 13:21:25 [INFO] Stopping server
+2013-07-05 13:21:25 [INFO] Saving players
+2013-07-05 13:21:25 [INFO] Saving worlds
+2013-07-05 13:21:25 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-05 13:21:25 [INFO] Closing listening thread
+2013-07-05 13:21:25 [INFO] Saving chunks for level 'world'/Nether
+2013-07-05 13:21:25 [INFO] Saving chunks for level 'world'/The End
