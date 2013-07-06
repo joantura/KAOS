@@ -3355,3 +3355,38 @@
 2013-07-06 12:36:28 [INFO] joantura lost connection: disconnect.quitting
 2013-07-06 12:36:58 [INFO] joantura[/192.168.1.37:53050] logged in with entity id 42668 at (-50.62987839906179, 70.0, 77.69999998807907)
 2013-07-06 12:37:36 [INFO] joantura lost connection: disconnect.quitting
+2013-07-06 12:38:24 [INFO] Stopping server
+2013-07-06 12:38:24 [INFO] Saving players
+2013-07-06 12:38:24 [INFO] Closing listening thread
+2013-07-06 12:38:24 [INFO] Saving worlds
+2013-07-06 12:38:24 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-06 12:38:24 [INFO] Saving chunks for level 'world'/Nether
+2013-07-06 12:38:24 [INFO] Saving chunks for level 'world'/The End
+2013-07-06 12:38:24 [INFO] Stopping server
+2013-07-06 14:30:03 [INFO] Starting minecraft server version 1.5.2
+2013-07-06 14:30:03 [INFO] Loading properties
+2013-07-06 14:30:03 [INFO] Default game type: CREATIVE
+2013-07-06 14:30:03 [INFO] Generating keypair
+2013-07-06 14:30:04 [INFO] Starting Minecraft server on *:25565
+2013-07-06 14:30:04 [INFO] Preparing level "world"
+2013-07-06 14:30:04 [INFO] Preparing start region for level 0
+2013-07-06 14:30:05 [INFO] Preparing spawn area: 57%
+2013-07-06 14:30:06 [INFO] Done (1,692s)! For help, type "help" or "?"
+2013-07-06 14:30:29 [INFO] joantura[/192.168.1.37:49228] logged in with entity id 786 at (-49.58279107556186, 70.0, 75.60583344253617)
+2013-07-06 14:37:09 [INFO] bieltv3[/192.168.1.34:49256] logged in with entity id 8219 at (10.258937082347332, 63.62381927358983, 131.47204619720367)
+2013-07-06 15:24:40 [INFO] joantura lost connection: disconnect.genericReason
+2013-07-06 15:25:21 [INFO] joantura[/192.168.1.37:49300] logged in with entity id 25236 at (41.484709249993486, 57.0, 151.10260426362262)
+2013-07-06 15:36:02 [INFO] bieltv3 lost connection: disconnect.genericReason
+2013-07-06 15:39:08 [INFO] bieltv3[/192.168.1.34:49295] logged in with entity id 31908 at (36.23989815046446, 57.0, 181.75234944220125)
+2013-07-06 16:16:18 [INFO] joantura lost connection: disconnect.genericReason
+2013-07-06 16:16:46 [INFO] joantura[/192.168.1.37:49389] logged in with entity id 68826 at (-60.60949944659411, 67.0, 203.0980049998397)
+2013-07-06 16:37:29 [INFO] bieltv3 lost connection: disconnect.genericReason
+2013-07-06 16:44:53 [INFO] joantura lost connection: disconnect.quitting
+2013-07-06 16:44:58 [INFO] Stopping server
+2013-07-06 16:44:58 [INFO] Saving players
+2013-07-06 16:44:58 [INFO] Saving worlds
+2013-07-06 16:44:58 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-06 16:44:58 [INFO] Closing listening thread
+2013-07-06 16:44:58 [INFO] Saving chunks for level 'world'/Nether
+2013-07-06 16:44:58 [INFO] Saving chunks for level 'world'/The End
+2013-07-06 16:44:59 [INFO] Stopping server
