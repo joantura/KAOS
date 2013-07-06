@@ -3390,3 +3390,20 @@
 2013-07-06 16:44:58 [INFO] Saving chunks for level 'world'/Nether
 2013-07-06 16:44:58 [INFO] Saving chunks for level 'world'/The End
 2013-07-06 16:44:59 [INFO] Stopping server
+2013-07-07 00:03:26 [INFO] Starting minecraft server version 1.5.2
+2013-07-07 00:03:27 [INFO] Loading properties
+2013-07-07 00:03:27 [INFO] Default game type: CREATIVE
+2013-07-07 00:03:27 [INFO] Generating keypair
+2013-07-07 00:03:28 [INFO] Starting Minecraft server on *:25565
+2013-07-07 00:03:29 [INFO] Preparing level "world"
+2013-07-07 00:03:29 [INFO] Preparing start region for level 0
+2013-07-07 00:03:30 [INFO] Preparing spawn area: 44%
+2013-07-07 00:03:30 [INFO] Done (1,919s)! For help, type "help" or "?"
+2013-07-07 00:04:58 [INFO] joantura[/192.168.1.37:49363] logged in with entity id 811 at (-87.69999998807907, 66.5, 183.45238942805474)
+2013-07-07 00:07:44 [INFO] bieltv3[/192.168.1.34:49540] logged in with entity id 3746 at (56.94599074738852, 64.52007124698783, 115.84028536807367)
+2013-07-07 00:09:24 [INFO] <bieltv3> iwwwwwwwww thaVIA TANCAT
+2013-07-07 00:09:35 [INFO] <joantura> inutil..
+2013-07-07 00:09:45 [INFO] <bieltv3> TRUCAM
+2013-07-07 00:41:29 [INFO] bieltv3 fell out of the world
+2013-07-07 00:59:43 [INFO] bieltv3 lost connection: disconnect.genericReason
+2013-07-07 01:03:03 [INFO] joantura lost connection: disconnect.quitting
