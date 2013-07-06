@@ -3342,3 +3342,16 @@
 2013-07-06 11:05:12 [INFO] Closing listening thread
 2013-07-06 11:05:12 [INFO] Saving chunks for level 'world'/Nether
 2013-07-06 11:05:12 [INFO] Saving chunks for level 'world'/The End
+2013-07-06 11:34:10 [INFO] Starting minecraft server version 1.5.2
+2013-07-06 11:34:10 [INFO] Loading properties
+2013-07-06 11:34:10 [INFO] Default game type: CREATIVE
+2013-07-06 11:34:11 [INFO] Generating keypair
+2013-07-06 11:34:11 [INFO] Starting Minecraft server on *:25565
+2013-07-06 11:34:11 [INFO] Preparing level "world"
+2013-07-06 11:34:12 [INFO] Preparing start region for level 0
+2013-07-06 11:34:13 [INFO] Preparing spawn area: 44%
+2013-07-06 11:34:14 [INFO] Done (2,038s)! For help, type "help" or "?"
+2013-07-06 11:34:22 [INFO] joantura[/192.168.1.37:52441] logged in with entity id 806 at (3.3908388423963247, 63.0, 188.34705607883285)
+2013-07-06 12:36:28 [INFO] joantura lost connection: disconnect.quitting
+2013-07-06 12:36:58 [INFO] joantura[/192.168.1.37:53050] logged in with entity id 42668 at (-50.62987839906179, 70.0, 77.69999998807907)
+2013-07-06 12:37:36 [INFO] joantura lost connection: disconnect.quitting
