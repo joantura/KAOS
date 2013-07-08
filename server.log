@@ -3407,3 +3407,47 @@
 2013-07-07 00:41:29 [INFO] bieltv3 fell out of the world
 2013-07-07 00:59:43 [INFO] bieltv3 lost connection: disconnect.genericReason
 2013-07-07 01:03:03 [INFO] joantura lost connection: disconnect.quitting
+2013-07-07 01:06:12 [INFO] Stopping server
+2013-07-07 01:06:12 [INFO] Saving players
+2013-07-07 01:06:12 [INFO] Saving worlds
+2013-07-07 01:06:12 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-07 01:06:12 [INFO] Closing listening thread
+2013-07-07 01:06:12 [INFO] Saving chunks for level 'world'/Nether
+2013-07-07 01:06:12 [INFO] Saving chunks for level 'world'/The End
+2013-07-07 11:44:05 [INFO] Starting minecraft server version 1.5.2
+2013-07-07 11:44:05 [INFO] Loading properties
+2013-07-07 11:44:05 [INFO] Default game type: CREATIVE
+2013-07-07 11:44:05 [INFO] Generating keypair
+2013-07-07 11:44:06 [INFO] Starting Minecraft server on *:25565
+2013-07-07 11:44:06 [INFO] Preparing level "world"
+2013-07-07 11:44:06 [INFO] Preparing start region for level 0
+2013-07-07 11:44:07 [INFO] Preparing spawn area: 41%
+2013-07-07 11:44:08 [INFO] Done (1,922s)! For help, type "help" or "?"
+2013-07-07 11:44:11 [INFO] joantura[/192.168.1.37:49522] logged in with entity id 803 at (-118.71567216561044, 65.21800553085131, 94.30000001192091)
+2013-07-07 12:09:10 [INFO] joantura lost connection: disconnect.quitting
+2013-07-07 12:09:13 [INFO] Stopping server
+2013-07-07 12:09:13 [INFO] Saving players
+2013-07-07 12:09:13 [INFO] Saving worlds
+2013-07-07 12:09:13 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-07 12:09:13 [INFO] Closing listening thread
+2013-07-07 12:09:13 [INFO] Saving chunks for level 'world'/Nether
+2013-07-07 12:09:13 [INFO] Saving chunks for level 'world'/The End
+2013-07-07 12:09:13 [INFO] Stopping server
+2013-07-08 19:13:51 [INFO] Starting minecraft server version 1.5.2
+2013-07-08 19:13:51 [INFO] Loading properties
+2013-07-08 19:13:51 [INFO] Default game type: CREATIVE
+2013-07-08 19:13:51 [INFO] Generating keypair
+2013-07-08 19:13:52 [INFO] Starting Minecraft server on *:25565
+2013-07-08 19:13:52 [INFO] Preparing level "world"
+2013-07-08 19:13:52 [INFO] Preparing start region for level 0
+2013-07-08 19:13:53 [INFO] Preparing spawn area: 68%
+2013-07-08 19:13:53 [INFO] Done (1,353s)! For help, type "help" or "?"
+2013-07-08 19:14:16 [INFO] joantura[/192.168.1.37:51384] logged in with entity id 808 at (6.783814140230554, 63.0, 189.16770392069114)
+2013-07-08 20:13:19 [INFO] joantura lost connection: disconnect.quitting
+2013-07-08 20:13:31 [INFO] Stopping server
+2013-07-08 20:13:31 [INFO] Saving players
+2013-07-08 20:13:31 [INFO] Saving worlds
+2013-07-08 20:13:31 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-08 20:13:31 [INFO] Closing listening thread
+2013-07-08 20:13:31 [INFO] Saving chunks for level 'world'/Nether
+2013-07-08 20:13:31 [INFO] Saving chunks for level 'world'/The End
