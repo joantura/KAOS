@@ -3564,3 +3564,51 @@
 2013-07-09 18:53:12 [INFO] Saving players
 2013-07-09 18:53:12 [INFO] Saving worlds
 2013-07-09 18:53:12 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-09 22:22:30 [INFO] Starting minecraft server version 1.6.2
+2013-07-09 22:22:30 [INFO] Loading properties
+2013-07-09 22:22:30 [INFO] Default game type: CREATIVE
+2013-07-09 22:22:30 [INFO] Generating keypair
+2013-07-09 22:22:30 [INFO] Starting Minecraft server on *:25565
+2013-07-09 22:22:31 [INFO] Preparing level "world"
+2013-07-09 22:22:31 [INFO] Preparing start region for level 0
+2013-07-09 22:22:32 [INFO] Preparing spawn area: 89%
+2013-07-09 22:22:32 [INFO] Done (1,194s)! For help, type "help" or "?"
+2013-07-09 22:24:05 [SEVERE] Reached end of stream for /192.168.1.37
+2013-07-09 22:24:13 [INFO] joantura[/192.168.1.37:52610] logged in with entity id 807 at (27.30000001192093, 68.0, 195.69999998807907)
+2013-07-09 22:24:13 [INFO] joantura joined the game
+2013-07-09 22:26:30 [SEVERE] Reached end of stream for /192.168.1.34
+2013-07-09 22:26:36 [INFO] bieltv3[/192.168.1.34:38466] logged in with entity id 1746 at (40.32797715877093, 63.0, 149.39492343342977)
+2013-07-09 22:26:36 [INFO] bieltv3 joined the game
+2013-07-09 22:46:47 [INFO] bieltv3 lost connection: disconnect.genericReason
+2013-07-09 22:46:47 [INFO] bieltv3 left the game
+2013-07-09 22:47:39 [SEVERE] Reached end of stream for /192.168.1.34
+2013-07-09 22:47:42 [INFO] bieltv3[/192.168.1.34:38490] logged in with entity id 9038 at (39.09839856254863, 63.0, 142.27790088033365)
+2013-07-09 22:47:42 [INFO] bieltv3 joined the game
+2013-07-09 22:48:15 [INFO] bieltv3 lost connection: disconnect.genericReason
+2013-07-09 22:48:15 [INFO] bieltv3 left the game
+2013-07-09 22:50:06 [SEVERE] Reached end of stream for /192.168.1.34
+2013-07-09 22:50:15 [INFO] bieltv3[/192.168.1.34:38517] logged in with entity id 10280 at (39.09839856254863, 63.0, 142.27790088033365)
+2013-07-09 22:50:15 [INFO] bieltv3 joined the game
+2013-07-09 22:51:17 [INFO] bieltv3 lost connection: disconnect.genericReason
+2013-07-09 22:51:17 [INFO] bieltv3 left the game
+2013-07-09 22:51:41 [INFO] /192.168.1.34:38522 lost connection
+2013-07-09 22:54:22 [SEVERE] Reached end of stream for /192.168.1.34
+2013-07-09 22:54:25 [INFO] bieltv3[/192.168.1.34:41984] logged in with entity id 11699 at (31.742905227586725, 62.0, 139.31407429045066)
+2013-07-09 22:54:25 [INFO] bieltv3 joined the game
+2013-07-09 22:54:58 [INFO] bieltv3 lost connection: disconnect.genericReason
+2013-07-09 22:54:58 [INFO] bieltv3 left the game
+2013-07-09 22:55:05 [SEVERE] Reached end of stream for /192.168.1.34
+2013-07-09 22:55:17 [SEVERE] Reached end of stream for /192.168.1.34
+2013-07-09 22:55:17 [INFO] bieltv3 [/192.168.1.34:41988] lost connection
+2013-07-09 22:55:20 [SEVERE] Reached end of stream for /192.168.1.34
+2013-07-09 22:55:26 [SEVERE] Reached end of stream for /192.168.1.34
+2013-07-09 22:55:26 [INFO] bieltv3 [/192.168.1.34:41991] lost connection
+2013-07-09 22:58:36 [INFO] joantura lost connection: disconnect.quitting
+2013-07-09 22:58:36 [INFO] joantura left the game
+2013-07-09 23:02:10 [INFO] Stopping server
+2013-07-09 23:02:10 [INFO] Saving players
+2013-07-09 23:02:10 [INFO] Saving worlds
+2013-07-09 23:02:10 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-09 23:02:10 [INFO] Closing listening thread
+2013-07-09 23:02:10 [INFO] Saving chunks for level 'world'/Nether
+2013-07-09 23:02:10 [INFO] Saving chunks for level 'world'/The End
