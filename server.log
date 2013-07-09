@@ -3451,3 +3451,70 @@
 2013-07-08 20:13:31 [INFO] Closing listening thread
 2013-07-08 20:13:31 [INFO] Saving chunks for level 'world'/Nether
 2013-07-08 20:13:31 [INFO] Saving chunks for level 'world'/The End
+2013-07-08 22:45:39 [INFO] Starting minecraft server version 1.5.2
+2013-07-08 22:45:39 [INFO] Loading properties
+2013-07-08 22:45:39 [INFO] Default game type: CREATIVE
+2013-07-08 22:45:39 [INFO] Generating keypair
+2013-07-08 22:45:41 [INFO] Starting Minecraft server on *:25565
+2013-07-08 22:45:41 [INFO] Preparing level "world"
+2013-07-08 22:45:42 [INFO] Preparing start region for level 0
+2013-07-08 22:45:43 [INFO] Preparing spawn area: 9%
+2013-07-08 22:45:44 [INFO] Preparing spawn area: 14%
+2013-07-08 22:45:45 [INFO] Preparing spawn area: 18%
+2013-07-08 22:45:46 [INFO] Preparing spawn area: 20%
+2013-07-08 22:45:47 [INFO] Preparing spawn area: 22%
+2013-07-08 22:45:48 [INFO] Preparing spawn area: 26%
+2013-07-08 22:45:49 [INFO] Preparing spawn area: 30%
+2013-07-08 22:45:50 [INFO] Preparing spawn area: 35%
+2013-07-08 22:45:51 [INFO] Preparing spawn area: 41%
+2013-07-08 22:45:52 [INFO] Preparing spawn area: 45%
+2013-07-08 22:45:53 [INFO] Preparing spawn area: 48%
+2013-07-08 22:45:54 [INFO] Preparing spawn area: 49%
+2013-07-08 22:45:55 [INFO] Preparing spawn area: 52%
+2013-07-08 22:45:57 [INFO] Preparing spawn area: 54%
+2013-07-08 22:45:58 [INFO] Preparing spawn area: 57%
+2013-07-08 22:45:59 [INFO] Preparing spawn area: 62%
+2013-07-08 22:46:00 [INFO] Preparing spawn area: 67%
+2013-07-08 22:46:01 [INFO] Preparing spawn area: 87%
+2013-07-08 22:46:02 [INFO] Preparing spawn area: 93%
+2013-07-08 22:46:03 [INFO] Done (21,315s)! For help, type "help" or "?"
+2013-07-08 22:46:29 [INFO] joantura[/192.168.1.37:49209] logged in with entity id 804 at (-38.27618725818473, 65.0, 103.73401010863115)
+2013-07-08 23:10:00 [INFO] bieltv3[/192.168.1.34:50111] logged in with entity id 13502 at (-115.22496139258217, 65.0, 95.63183305609928)
+2013-07-08 23:27:40 [INFO] bieltv3 lost connection: disconnect.genericReason
+2013-07-08 23:31:35 [INFO] bieltv3[/192.168.1.34:49302] logged in with entity id 26385 at (18.48729246329333, 71.0573451259343, 192.55238614656895)
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:23:18 [WARNING] Fetching addPacket for removed entity
+2013-07-09 00:29:39 [INFO] bieltv3 lost connection: disconnect.genericReason
+2013-07-09 00:32:47 [INFO] joantura lost connection: disconnect.quitting
+2013-07-09 11:18:32 [INFO] Starting minecraft server version 1.5.2
+2013-07-09 11:18:33 [INFO] Loading properties
+2013-07-09 11:18:33 [INFO] Default game type: CREATIVE
+2013-07-09 11:18:33 [INFO] Generating keypair
+2013-07-09 11:18:34 [INFO] Starting Minecraft server on *:25565
+2013-07-09 11:18:34 [INFO] Preparing level "world"
+2013-07-09 11:18:34 [INFO] Preparing start region for level 0
+2013-07-09 11:18:35 [INFO] Preparing spawn area: 68%
+2013-07-09 11:18:35 [INFO] Done (1,589s)! For help, type "help" or "?"
+2013-07-09 11:19:30 [INFO] joantura[/192.168.1.37:49411] logged in with entity id 813 at (18.811398517504887, 64.23320833269771, 144.02316350203498)
+2013-07-09 11:24:35 [INFO] joantura lost connection: disconnect.quitting
+2013-07-09 11:24:39 [INFO] Stopping server
+2013-07-09 11:24:39 [INFO] Closing listening thread
+2013-07-09 11:24:39 [INFO] Saving players
+2013-07-09 11:24:39 [INFO] Saving worlds
+2013-07-09 11:24:39 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-09 11:24:39 [INFO] Saving chunks for level 'world'/Nether
+2013-07-09 11:24:39 [INFO] Saving chunks for level 'world'/The End
+2013-07-09 11:24:40 [INFO] Stopping server
+2013-07-09 11:24:40 [INFO] Saving players
