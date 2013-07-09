@@ -3518,3 +3518,49 @@
 2013-07-09 11:24:39 [INFO] Saving chunks for level 'world'/The End
 2013-07-09 11:24:40 [INFO] Stopping server
 2013-07-09 11:24:40 [INFO] Saving players
+2013-07-09 11:58:50 [INFO] Starting minecraft server version 1.5.2
+2013-07-09 11:58:51 [INFO] Loading properties
+2013-07-09 11:58:51 [INFO] Default game type: CREATIVE
+2013-07-09 11:58:51 [INFO] Generating keypair
+2013-07-09 11:58:51 [INFO] Starting Minecraft server on *:25565
+2013-07-09 11:58:51 [INFO] Preparing level "world"
+2013-07-09 11:58:51 [INFO] Preparing start region for level 0
+2013-07-09 11:58:52 [INFO] Preparing spawn area: 64%
+2013-07-09 11:58:53 [INFO] Done (1,504s)! For help, type "help" or "?"
+2013-07-09 11:59:17 [INFO] Stopping server
+2013-07-09 11:59:17 [INFO] Saving players
+2013-07-09 11:59:17 [INFO] Saving worlds
+2013-07-09 11:59:17 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-09 11:59:17 [INFO] Closing listening thread
+2013-07-09 11:59:17 [INFO] Saving chunks for level 'world'/Nether
+2013-07-09 11:59:17 [INFO] Saving chunks for level 'world'/The End
+2013-07-09 18:30:10 [INFO] Starting minecraft server version 1.6.2
+2013-07-09 18:30:10 [INFO] Loading properties
+2013-07-09 18:30:10 [INFO] Default game type: CREATIVE
+2013-07-09 18:30:10 [INFO] Generating keypair
+2013-07-09 18:30:11 [INFO] Starting Minecraft server on *:25565
+2013-07-09 18:30:11 [INFO] Preparing level "world"
+2013-07-09 18:30:11 [INFO] Preparing start region for level 0
+2013-07-09 18:30:12 [INFO] Preparing spawn area: 60%
+2013-07-09 18:30:13 [INFO] Done (1,517s)! For help, type "help" or "?"
+2013-07-09 18:30:31 [SEVERE] Reached end of stream for /192.168.1.37
+2013-07-09 18:30:33 [INFO] joantura[/192.168.1.37:50413] logged in with entity id 815 at (-13.586410542297378, 66.29433362711761, 88.46823503771463)
+2013-07-09 18:30:33 [INFO] joantura joined the game
+2013-07-09 18:33:29 [SEVERE] Reached end of stream for /192.168.1.34
+2013-07-09 18:33:39 [INFO] bieltv3[/192.168.1.34:38425] logged in with entity id 1630 at (10.208716507474174, 76.99026027484803, 170.69275955042906)
+2013-07-09 18:33:39 [INFO] bieltv3 joined the game
+2013-07-09 18:52:31 [INFO] joantura lost connection: disconnect.quitting
+2013-07-09 18:52:31 [INFO] joantura left the game
+2013-07-09 18:53:07 [INFO] bieltv3 lost connection: disconnect.quitting
+2013-07-09 18:53:07 [INFO] bieltv3 left the game
+2013-07-09 18:53:11 [INFO] Stopping server
+2013-07-09 18:53:11 [INFO] Saving players
+2013-07-09 18:53:11 [INFO] Saving worlds
+2013-07-09 18:53:11 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-09 18:53:11 [INFO] Closing listening thread
+2013-07-09 18:53:11 [INFO] Saving chunks for level 'world'/Nether
+2013-07-09 18:53:11 [INFO] Saving chunks for level 'world'/The End
+2013-07-09 18:53:12 [INFO] Stopping server
+2013-07-09 18:53:12 [INFO] Saving players
+2013-07-09 18:53:12 [INFO] Saving worlds
+2013-07-09 18:53:12 [INFO] Saving chunks for level 'world'/Overworld
