@@ -3699,3 +3699,61 @@
 2013-07-12 17:35:07 [INFO] Closing listening thread
 2013-07-12 17:35:07 [INFO] Saving chunks for level 'world'/Nether
 2013-07-12 17:35:07 [INFO] Saving chunks for level 'world'/The End
+2013-07-12 19:10:37 [INFO] Starting minecraft server version 1.6.2
+2013-07-12 19:10:37 [INFO] Loading properties
+2013-07-12 19:10:37 [INFO] Default game type: CREATIVE
+2013-07-12 19:10:37 [INFO] Generating keypair
+2013-07-12 19:10:38 [INFO] Starting Minecraft server on *:25565
+2013-07-12 19:10:38 [INFO] Preparing level "world"
+2013-07-12 19:10:38 [INFO] Preparing start region for level 0
+2013-07-12 19:10:39 [INFO] Preparing spawn area: 9%
+2013-07-12 19:10:40 [INFO] Preparing spawn area: 16%
+2013-07-12 19:10:41 [INFO] Preparing spawn area: 21%
+2013-07-12 19:10:42 [INFO] Preparing spawn area: 25%
+2013-07-12 19:10:44 [INFO] Preparing spawn area: 41%
+2013-07-12 19:10:45 [INFO] Preparing spawn area: 49%
+2013-07-12 19:10:46 [INFO] Preparing spawn area: 60%
+2013-07-12 19:10:47 [INFO] Preparing spawn area: 74%
+2013-07-12 19:10:48 [INFO] Preparing spawn area: 93%
+2013-07-12 19:10:48 [INFO] Done (9,610s)! For help, type "help" or "?"
+2013-07-12 19:11:56 [SEVERE] Reached end of stream for /192.168.1.37
+2013-07-12 19:11:59 [INFO] joantura[/192.168.1.37:49431] logged in with entity id 808 at (61.426740494621406, 67.77163611339691, 204.71641025663055)
+2013-07-12 19:11:59 [INFO] joantura joined the game
+2013-07-12 19:19:06 [INFO] joantura lost connection: disconnect.genericReason
+2013-07-12 19:19:06 [INFO] joantura left the game
+2013-07-12 19:19:07 [INFO] Stopping server
+2013-07-12 19:19:07 [INFO] Saving players
+2013-07-12 19:19:07 [INFO] Saving worlds
+2013-07-12 19:19:07 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-12 19:19:07 [INFO] Closing listening thread
+2013-07-12 19:19:07 [INFO] Saving chunks for level 'world'/Nether
+2013-07-12 19:19:07 [INFO] Saving chunks for level 'world'/The End
+2013-07-12 19:19:08 [INFO] Stopping server
+2013-07-12 19:19:08 [INFO] Saving players
+2013-07-12 23:10:40 [INFO] Starting minecraft server version 1.6.2
+2013-07-12 23:10:40 [INFO] Loading properties
+2013-07-12 23:10:40 [INFO] Default game type: CREATIVE
+2013-07-12 23:10:40 [INFO] Generating keypair
+2013-07-12 23:10:40 [INFO] Starting Minecraft server on *:25565
+2013-07-12 23:10:40 [INFO] Preparing level "world"
+2013-07-12 23:10:40 [INFO] Preparing start region for level 0
+2013-07-12 23:10:41 [INFO] Preparing spawn area: 96%
+2013-07-12 23:10:41 [INFO] Done (1,151s)! For help, type "help" or "?"
+2013-07-12 23:11:00 [SEVERE] Reached end of stream for /192.168.1.37
+2013-07-12 23:11:04 [INFO] joantura[/192.168.1.37:49902] logged in with entity id 814 at (24.174795095099608, 69.42268553621868, 173.01602044631824)
+2013-07-12 23:11:04 [INFO] joantura joined the game
+2013-07-12 23:43:24 [INFO] joantura lost connection: disconnect.quitting
+2013-07-12 23:43:24 [INFO] joantura left the game
+2013-07-12 23:43:29 [INFO] Stopping server
+2013-07-12 23:43:29 [INFO] Saving players
+2013-07-12 23:43:29 [INFO] Saving worlds
+2013-07-12 23:43:29 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-12 23:43:29 [INFO] Closing listening thread
+2013-07-12 23:43:29 [INFO] Saving chunks for level 'world'/Nether
+2013-07-12 23:43:29 [INFO] Saving chunks for level 'world'/The End
+2013-07-12 23:43:30 [INFO] Stopping server
+2013-07-12 23:43:30 [INFO] Saving players
+2013-07-12 23:43:30 [INFO] Saving worlds
+2013-07-12 23:43:30 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-12 23:43:30 [INFO] Saving chunks for level 'world'/Nether
+2013-07-12 23:43:30 [INFO] Saving chunks for level 'world'/The End
